@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/SimulareColocviuLab13/Admitere.cpp
+Admitere.h
+D:/CLionProjects/SimulareColocviuLab13/Admitere.h
+
+D:/CLionProjects/SimulareColocviuLab13/Admitere.h
+vector
+-
+Candidat.h
+D:/CLionProjects/SimulareColocviuLab13/Candidat.h
+iostream
+-
+
+D:/CLionProjects/SimulareColocviuLab13/Candidat.h
+string
+-
+
+D:/CLionProjects/SimulareColocviuLab13/main.cpp
+iostream
+-
+unordered_map
+-
+bits/unordered_map.h
+-
+string
+-
+Admitere.h
+D:/CLionProjects/SimulareColocviuLab13/Admitere.h
+

@@ -1,0 +1,3 @@
+D:/CLionProjects/SimulareColocviuLab13/cmake-build-debug/CMakeFiles/SimulareColocviuLab13.dir
+D:/CLionProjects/SimulareColocviuLab13/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/SimulareColocviuLab13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
